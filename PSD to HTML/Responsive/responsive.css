@@ -1,0 +1,177 @@
+
+
+
+
+@media (max-width: 500px) {
+
+  .input-group input{
+    width: 343px;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  .input-group textarea{
+    width: 343px;
+    height: 120px;
+    margin: 10px 0;
+  }
+  .input-group label{
+    left: 12%;
+  }
+  input:focus~label,
+  input:valid~label,
+  textarea:focus~label,
+  textarea:valid~label
+{
+  top: -10px;
+  color: #fff;
+}
+.btn-group button{
+  width: 100px;
+  height: 36px;
+  font-size: 12px;
+  margin-left: 55px;
+}
+.btn-group{
+  margin-top: 70px;
+}  
+.strict-cover{
+  height: 130vh;
+}
+
+.footer-social-icon ul li a{
+  font-size: 10px;
+  padding: 5px 6px;
+}
+.footer-social-icon ul li{
+  margin: 0 1px;
+}
+.footer-social-icon{
+  margin-top: -30px;
+ }
+
+  
+}
+
+
+
+
+@media (max-width: 991px) {
+
+  .strict-body3-photo{
+    width: 210px;
+    height: 210px;
+  }
+  .strict-product-icon ul li a{
+    padding: 7px 13px;
+    margin: 50px 10px;
+  }
+  .strict-cover{
+    height: 110vh;
+  }
+  .strict-body-section-4{
+    height: 110vh;
+ }
+ .strict-overlay{
+  height: 110vh;
+}
+
+}
+
+
+@media (max-width: 320px) {
+
+  .input-group input{
+    width: 300px;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  .input-group textarea{
+    width: 300px;
+    height: 100px;
+    margin: 15px 0;
+  }
+  .input-group label{
+    left: 6%;
+  }
+  .btn-group button{
+    margin-left: 37px;
+  }
+  .btn-group label{
+    margin: 18px 5px;
+    font-size: 14px;
+  }
+  .strict-cover{
+    height: 130vh;
+  }
+ 
+}
+
+@media (max-width: 350px) {
+
+  .input-group input{
+    width: 280px;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  .input-group textarea{
+    width: 280px;
+    height: 100px;
+    margin: 15px 0;
+  }
+  .input-group label{
+    left: 6%;
+  }
+  .btn-group button{
+    margin-left: 30px;
+  }
+  .btn-group label{
+    margin: 18px 5px;
+    font-size: 14px;
+  }
+  .strict-cover{
+    height: 130vh;
+  }
+
+  .footer-social-icon ul li a{
+    font-size: 10px;
+    padding: 5px 6px;
+  }
+  .footer-social-icon ul li{
+    margin: 0 1px;
+  }
+  .footer-social-icon{
+    margin-top: -30px;
+   }
+ 
+}
+
+
+
+
+@media (max-width: 760px) {
+
+  .strict-menu-icon{
+    display: block;
+    margin-top: -70px;
+  }
+  .strict-menu{
+    display: none;
+  }
+  .footer-social-icon ul li a{
+    font-size: 10px;
+    padding: 5px 6px;
+  }
+  .footer-social-icon ul li{
+    margin: 0 1px;
+  }
+  .footer-social-icon{
+    margin-top: -30px;
+   }
+   .strict-body-section-4{
+    height: 110vh;
+ }
+ .strict-overlay{
+  height: 110vh;
+}
+ 
+}
